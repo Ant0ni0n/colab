@@ -1,3 +1,1 @@
 # Hello, colaboration!
-
-Some changes
